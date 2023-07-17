@@ -143,7 +143,7 @@
                 "name": "laboris",
                 "brand": "Medesign",
                 "price": 1337.79,
-                "image_url": "https://dummyimage.com/1000x1000/00006a/ffffff.png&text=20"
+                "image_url": ""
             },
             {
                 "code": 14867,
@@ -213,7 +213,7 @@
                 "name": "pariatur eiusmod voluptate!",
                 "brand": "Lunchpod",
                 "price": 1414.3,
-                "image_url": "https://dummyimage.com/1000x1000/00009f/ffffff.png&text=30"
+                "image_url": ""
             }
         ]
     }
